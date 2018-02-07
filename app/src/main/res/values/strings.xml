@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskWeatherApp</string>
+    <string name="no_api_key">Please obtain your API KEY first from APIXU.com</string>
+    <string name="search_city_name">City name…</string>
+    <string name="temp_degree">%1$s°C</string>
+    <string name="humidity">Humidity: %1$s%%</string>
+    <string name="wind">Wind: %1$s %2$s km/h</string>
+    <string name="pressure">Pressure: %1$s mb</string>
+    <string name="visibility">Visibility: %1$s km</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="weather_condition_icon">Weather condition icon</string>
+    <string name="location_no_found">No matching location found</string>
+    <string name="empty_edit_text_message">Type the city name</string>
+</resources>

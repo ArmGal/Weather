@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#607D8B</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#000000</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#009688</color>
+
+    <!-- Text color for the app background -->
+    <color name="colorBackground">#00FFFF</color>
+
+    <!-- Color for an temperature below -21  -->
+    <color name="tempM21">#344859</color>
+
+    <!-- Color for an temperature between -16 and -20 -->
+    <color name="tempM20_M16">#474E81</color>
+
+    <!-- Color for an temperature between -15 and -11 -->
+    <color name="tempM15_M11">#4F597D</color>
+
+    <!-- Color for an temperature between -10 and -6 -->
+    <color name="tempM10_M6">#61708C</color>
+
+    <!-- Color for an temperature between -5 and -1 -->
+    <color name="tempM5_M1">#7A8277</color>
+
+    <!-- Color for an temperature between 0 and +4 -->
+    <color name="temp0_P4">#969776</color>
+
+    <!-- Color for an temperature between +5 and +9 -->
+    <color name="tempP5_P9">#ACB437</color>
+
+    <!-- Color for an temperature above +10 and +14 -->
+    <color name="tempP10_P14">#F5A65E</color>
+
+    <!-- Color for an temperature above +15 and +19 -->
+    <color name="tempP15_P19">#D3520B</color>
+
+    <!-- Color for an temperature above +20 and +24 -->
+    <color name="tempP20_P24">#CB3E02</color>
+
+    <!-- Color for an temperature above +25 and +29 -->
+    <color name="tempP25_P29">#C02B00</color>
+
+    <!-- Color for an temperature above +30 and +34 -->
+    <color name="tempP30_P34">#C01F00</color>
+
+    <!-- Color for an temperature above +35 -->
+    <color name="tempP35">#C00000</color>
+</resources>
